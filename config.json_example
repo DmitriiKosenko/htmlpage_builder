@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"css": ["default", "main", "header", "welcome_screen", "mixed_reality"],
+		"js": ["main"]
+	},
+	"images": ["img", "favicon"]
+}
