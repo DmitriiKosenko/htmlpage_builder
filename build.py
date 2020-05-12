@@ -41,7 +41,7 @@ from jsmin import jsmin
 from os.path import join as pjoin
 
 
-config_file = "/home/o/Desktop/__sandbox/brio/config.json"
+config_file = "some predefined place..."
 if len(sys.argv) == 2:
     config_file = sys.argv[1]
 
